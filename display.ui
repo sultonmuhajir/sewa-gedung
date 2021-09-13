@@ -484,7 +484,7 @@ p, li { white-space: pre-wrap; }
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>Gambar/serambi depan.jpg</pixmap>
+         <pixmap>img/serambi depan.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
@@ -523,7 +523,7 @@ p, li { white-space: pre-wrap; }
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>Gambar/area parkir.jpg</pixmap>
+         <pixmap>img/area parkir.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
@@ -562,7 +562,7 @@ p, li { white-space: pre-wrap; }
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>Gambar/serambi resepsionis.jpg</pixmap>
+         <pixmap>img/serambi resepsionis.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
@@ -601,7 +601,7 @@ p, li { white-space: pre-wrap; }
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>Gambar/back drop aula.jpg</pixmap>
+         <pixmap>img/back drop aula.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
@@ -640,7 +640,7 @@ p, li { white-space: pre-wrap; }
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>Gambar/plasa 1.jpg</pixmap>
+         <pixmap>img/plasa 1.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
@@ -679,7 +679,7 @@ p, li { white-space: pre-wrap; }
          <string/>
         </property>
         <property name="pixmap">
-         <pixmap>Gambar/plasa 2.jpg</pixmap>
+         <pixmap>img/plasa 2.jpg</pixmap>
         </property>
         <property name="scaledContents">
          <bool>true</bool>
